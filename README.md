@@ -21,21 +21,29 @@ This project is an interactive social media analytics dashboard developed using 
 Line Charts:
 
 Weekly impressions trend analysis
+
 Audience growth tracking over time
+
 Engagement performance by platform
 
 Column & Bar Charts:
 
 Platform-wise impressions and reach comparison
+
 Likes and engagement performance analysis
+
 Social media audience distribution
 
 KPI Cards:
 
 Total Impressions
+
 Average Engagement Rate
+
 Average Response Rate
+
 Audience Growth Metrics
+
 Platform Followers/Fans
 
 Interactive Elements:
