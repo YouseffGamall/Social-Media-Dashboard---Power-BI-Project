@@ -8,3 +8,4 @@ Weekly performance trends
 KPI monitoring
 Comparative analytics
 Interactive data exploration
+<img width="1193" height="727" alt="Social Media Dashboard" src="https://github.com/user-attachments/assets/ab9ead7d-8f3f-497f-a838-c7b4d62de112" />
