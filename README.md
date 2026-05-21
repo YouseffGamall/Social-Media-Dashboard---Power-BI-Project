@@ -14,7 +14,7 @@ This project is an interactive social media analytics dashboard developed using 
 
 ✅ Comparative analysis between different social media platforms
 
-# Screenshot
+# 📸 Screenshot
 <img width="1193" height="727" alt="Social Media Dashboard" src="https://github.com/user-attachments/assets/ab9ead7d-8f3f-497f-a838-c7b4d62de112" />
 
 # 📈 Visualizations Included
