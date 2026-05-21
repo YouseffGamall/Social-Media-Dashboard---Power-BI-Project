@@ -57,16 +57,24 @@ Performance tracking across multiple weeks
 
 # 🖼️ Dashboard Highlights
 Clean and modern dashboard interface
+
 Interactive business intelligence reporting
+
 Easy-to-read KPIs and trend visualizations
+
 Data storytelling focused on marketing analytics
 
 # 📎 Tools & Technologies Used
 Microsoft Power BI
+
 Power Query
+
 DAX (Data Analysis Expressions)
+
 Data Modeling
+
 Interactive Visualizations
+
 KPI Cards & Filters
 
 
