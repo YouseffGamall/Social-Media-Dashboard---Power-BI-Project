@@ -18,7 +18,6 @@ This project is an interactive social media analytics dashboard developed using 
 <img width="1193" height="727" alt="Social Media Dashboard" src="https://github.com/user-attachments/assets/ab9ead7d-8f3f-497f-a838-c7b4d62de112" />
 
 # 📈 Visualizations Included
-
 Line Charts:
 
 Weekly impressions trend analysis
@@ -57,14 +56,12 @@ Performance tracking across multiple weeks
 📅 Weekly performance tracking enables trend analysis and faster decision-making.
 
 # 🖼️ Dashboard Highlights
-
 Clean and modern dashboard interface
 Interactive business intelligence reporting
 Easy-to-read KPIs and trend visualizations
 Data storytelling focused on marketing analytics
 
 # 📎 Tools & Technologies Used
-
 Microsoft Power BI
 Power Query
 DAX (Data Analysis Expressions)
